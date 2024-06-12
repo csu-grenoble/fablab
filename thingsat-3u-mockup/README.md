@@ -1,5 +1,7 @@
 # Thingsat @ Stork-1 PMMA mockup (3U cubesat)
 
+Authors: Didier DONSEZ, Aymeric BROCHIER
+
 [Thingsat @ Stork-1](https://gricad-gitlab.univ-grenoble-alpes.fr/thingsat/public/-/blob/master/cubesat_mission/README.md)
 
 [SVG for laser-cutter](thingsat-3u-pmma-mockup.svg) ([cut at FabMSTIC](https://fabmstic.imag.fr/))
